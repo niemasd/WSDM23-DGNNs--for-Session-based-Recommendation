@@ -10,6 +10,7 @@ Zihao Li et al. Exploiting Explicit and Implicit Item relationships for Session-
 import argparse
 import copy
 import pickle
+import random
 import time
 from utils import Data, split_validation
 from model import *
