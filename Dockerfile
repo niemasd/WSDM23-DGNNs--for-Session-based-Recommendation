@@ -1,4 +1,4 @@
-# Minimal Docker image for RecBole using PyTorch base
+# Minimal Docker image for DGNN Session-based Recommendation using PyTorch base
 FROM pytorch/pytorch:2.9.1-cuda13.0-cudnn9-runtime
 MAINTAINER Niema Moshiri <niemamoshiri@gmail.com>
 
