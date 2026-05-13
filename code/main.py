@@ -13,6 +13,7 @@ import pickle
 import random
 import time
 from utils import Data, split_validation
+from torch.backends import cudnn
 from model import *
 import os
 import logging
